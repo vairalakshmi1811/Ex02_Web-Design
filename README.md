@@ -19,9 +19,40 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+<html>
+    <head>
+        <title>list</title>
+    </head>
+    <body bgcolor="pink">
+        <h1 >SAVEETHA ENGINEERING COLLEGE </h1>
+        <h2 > B.E courses offered:</h2>
+        <ul>
+            <li>CIVIL</li>
+            <li>CSE</li>
+            <li>ECE</li>
+            <li>EEE</li>
+            <li>MECH</li>
+            <li>BIO-MEDICAL</li>
+            <li>EIE</li>
+        </ul>
+        <h2>B.TECH courses offered:</h2>
+        <ol>
+            <li>AGRI</li>
+            <li>AIDS</li>
+            <li>AIML</li>
+            <li>IT</li>
+        </ol>
+
+</body>
+</html>
+            
+    
+
+  
 
 
 ## OUTPUT
+<img width="584" alt="list-output" src="https://github.com/selvasachein/Ex02_Web-Design/assets/165985148/4c4aa3e4-79a7-4933-b965-f84bb5afe983">
 
 
 ## RESULT
