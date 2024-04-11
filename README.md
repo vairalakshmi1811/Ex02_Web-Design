@@ -19,6 +19,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
     <head>
         <title>list</title>
@@ -49,7 +50,7 @@
 
     </body>
 </html>
-
+```
 ## OUTPUT
 ![alt text](list-output.png)
 
