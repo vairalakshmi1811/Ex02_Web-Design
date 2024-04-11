@@ -20,7 +20,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-<html>
+```<html>
     <head>
         <title>list</title>
     </head>
@@ -43,16 +43,16 @@
             <li>AIML</li>
             <li>IT</li>
         </ol>
-
+</body>
+</html>```
 
             
     
 
-    </body>
-</html>
+    
 
 ## OUTPUT
-![alt text](list-output.png)
+```![alt text](list-output.png)```
 
 ## RESULT
   List of Departments in an Institution is created successfully.
